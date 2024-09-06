@@ -26,7 +26,12 @@ function App() {
         <Route path="/our-future" element={<OurFuture />} />
         <Route path="/contact-us" element={<ContactUs />} />
       </Routes>
-      
+      <HeroSection />
+      <FeatureSection />
+      <Workflow />
+      <Pricing />
+      <SocialLinks />
+      <Footer />
     </>
   );
 }
