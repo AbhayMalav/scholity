@@ -3,11 +3,11 @@ import { statement } from "../constants";
 
 const Problem = () => {
   return (
-    <div className="mt-0 max-w-7xl mx-auto pt-20 px-6 ">
-      <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center my-8 mb-20 tracking-wider">
+    <div className="mt-1 max-w-7xl mx-auto px-6 ">
+      <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center my-8 tracking-wider">
         Our
         <span className="bg-gradient-to-r from-blue-500 to-blue-800 text-transparent bg-clip-text">
-          {" "} thoughts</span>
+          {" "} Thought</span>
       </h2>
       <div className="flex flex-wrap">
         {statement.map((option, index) => (

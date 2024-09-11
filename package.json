@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://namank6376.github.io/web",
+  "homepage": "https://AbhayMalav.github.io/scholity",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

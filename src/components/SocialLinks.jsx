@@ -2,7 +2,7 @@ import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from 'react-icons/f
 const socialLinks = [
     { href: "https://facebook.com/yourprofile", icon: <FaFacebookF size={32} /> },
     { href: "https://twitter.com/yourprofile", icon: <FaTwitter size={32} /> },
-    { href: "https://linkedin.com/in/yourprofile", icon: <FaLinkedinIn size={32} /> },
+    { href: "https://linkedin.com/company/scholity-technologies", icon: <FaLinkedinIn size={32} /> },
     { href: "https://instagram.com/yourprofile", icon: <FaInstagram size={32} /> }
   ];
   

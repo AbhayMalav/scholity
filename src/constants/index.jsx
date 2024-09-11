@@ -25,10 +25,10 @@ import user6 from "../assets/profile-pictures/user6.jpg";
 // src/constants.js
 
 export const navItems = [
-  { label: "Home", href: "/" },
-  { label: "Idea", href: "/researches" },
-  { label: "About Us", href: "/about-us" },
-  { label: "Our Future", href: "/our-future" },
+
+  { label: "Idea", href: "/Idea" },
+  { label: "About Us", href: "/AboutUs" },
+  { label: "Our Future", href: "/OurFuture" },
 ];
 
 
@@ -176,6 +176,15 @@ export const team = [
 
     ],
   },
+  {
+    title: "Consultant",
+    designation: "Abhay Malav",
+    photo: "../assets/kashish.jpg", // Add photo URL
+    features: [
+      <Social />
+
+    ],
+  },
 ];
 
   export const statement = [
@@ -203,26 +212,3 @@ export const team = [
 
 
 
-export const resourcesLinks = [
-  { href: "#", text: "Know us more" },
-  { href: "#", text: "Share info" },
-  { href: "#", text: "Contact Founder" },
-  { href: "#", text: "Announcements" },
-  { href: "#", text: "Community" },
-];
-
-export const platformLinks = [
-  { href: "#", text: "Join us" },
-  { href: "#", text: "Career" },
-  { href: "#", text: "Requirements" },
-  { href: "#", text: "Policy" },
-  { href: "#", text: "Release Notes" },
-];
-
-export const communityLinks = [
-  { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Talents" },
-];

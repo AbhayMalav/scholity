@@ -11,7 +11,7 @@ const Workflow = () => {
         </h2>
         <div className="flex flex-wrap justify-center">
           
-          <div className="pt-12 w-full lg:text-xl">
+          <div className="mt-20 mb-20 pt-12 w-95 lg:text-xl">
              <p>
              Scholity Technologies is a startup focused on developing innovative solutions to enhance emergency healthcare services. 
              Our company creates advanced technology that enables seamless communication and data sharing between ambulances and hospitals. 
